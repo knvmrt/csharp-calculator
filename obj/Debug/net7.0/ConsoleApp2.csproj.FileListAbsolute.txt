@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll

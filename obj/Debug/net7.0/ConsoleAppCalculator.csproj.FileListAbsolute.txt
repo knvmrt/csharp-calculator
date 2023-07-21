@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleAppCalculator.exe
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleAppCalculator.deps.json
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleAppCalculator.runtimeconfig.json
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleAppCalculator.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\bin\Debug\net7.0\ConsoleAppCalculator.pdb
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.AssemblyInfo.cs
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleAppCalculator.dll
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.pdb
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ConsoleAppCalculator.genruntimeconfig.cache
+D:\Visual Studio Projects\ConsoleApp1\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleAppCalculator.dll
